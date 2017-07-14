@@ -1,0 +1,49 @@
+2016-12-11 18:17:50,483 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2016-12-11 18:20:29,355 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SparkImp:SparkJLanI:1.0 @ /home/sahami/Documents/workspace/UniProjects/SparkJLanI/pom.xml.
+2016-12-11 18:20:29,355 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SparkImp:SparkJLanI:1.0 @ /home/sahami/Documents/workspace/UniProjects/SparkJLanI/pom.xml.
+2016-12-11 18:20:32,220 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:20:32,220 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/main/resources
+2016-12-11 18:20:32,224 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:20:32,224 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/test/resources
+2016-12-11 18:20:33,792 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SparkImp:SparkJLanI:1.0 @ /home/sahami/Documents/workspace/UniProjects/SparkJLanI/pom.xml.
+2016-12-11 18:20:35,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:20:35,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/main/resources
+2016-12-11 18:20:35,212 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:20:35,212 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/test/resources
+2016-12-11 18:20:36,979 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:20:36,980 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/main/resources
+2016-12-11 18:20:36,982 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:20:36,982 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/test/resources
+2016-12-11 18:28:42,802 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SparkImp:SparkSentenceCleaner:1.0 @ /home/sahami/Documents/workspace/UniProjects/SparkImplSentenceCleaner/SparkSentenceCleaner/pom.xml.
+2016-12-11 18:28:43,564 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:28:43,564 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkImplSentenceCleaner/SparkSentenceCleaner/src/main/resources
+2016-12-11 18:28:43,566 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:28:43,566 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkImplSentenceCleaner/SparkSentenceCleaner/src/test/resources
+2016-12-11 18:28:44,329 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SparkImp:SparkSentenceCleaner:1.0 @ /home/sahami/Documents/workspace/UniProjects/SparkImplSentenceCleaner/SparkSentenceCleaner/pom.xml.
+2016-12-11 18:28:45,781 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:28:45,781 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkImplSentenceCleaner/SparkSentenceCleaner/src/main/resources
+2016-12-11 18:28:45,784 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:28:45,784 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkImplSentenceCleaner/SparkSentenceCleaner/src/test/resources
+2016-12-11 18:29:45,564 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SparkImp:SentencesCleaner:1.0 @ /home/sahami/Documents/workspace/UniProjects/SparkSentencesCleaner/pom.xml/SentencesCleaner/pom.xml.
+2016-12-11 18:29:46,266 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:29:46,266 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkSentencesCleaner/pom.xml/SentencesCleaner/src/main/resources
+2016-12-11 18:29:46,267 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:29:46,267 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkSentencesCleaner/pom.xml/SentencesCleaner/src/test/resources
+2016-12-11 18:29:47,225 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SparkImp:SentencesCleaner:1.0 @ /home/sahami/Documents/workspace/UniProjects/SparkSentencesCleaner/pom.xml/SentencesCleaner/pom.xml.
+2016-12-11 18:29:47,772 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:29:47,772 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkSentencesCleaner/pom.xml/SentencesCleaner/src/main/resources
+2016-12-11 18:29:47,774 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:29:47,774 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkSentencesCleaner/pom.xml/SentencesCleaner/src/test/resources
+2016-12-11 18:29:48,292 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:29:48,292 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkSentencesCleaner/pom.xml/SentencesCleaner/src/main/resources
+2016-12-11 18:29:48,294 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:29:48,294 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkSentencesCleaner/pom.xml/SentencesCleaner/src/test/resources
+2016-12-11 18:31:29,128 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:31:29,128 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/main/resources
+2016-12-11 18:31:29,130 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:31:29,131 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/test/resources
+2016-12-11 18:36:09,759 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:36:09,759 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/main/resources
+2016-12-11 18:36:09,761 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 18:36:09,761 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sahami/Documents/workspace/UniProjects/SparkJLanI/src/test/resources
+2016-12-11 18:42:23,417 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

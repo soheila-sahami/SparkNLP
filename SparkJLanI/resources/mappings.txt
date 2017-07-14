@@ -1,0 +1,17 @@
+Rest	0
+be	16
+br	3
+de	2
+dk	4
+ee	5
+es	6
+fi	7
+fr	8
+it	9
+nl	10
+no	11
+pl	12
+se	13
+tr	14
+uk	15
+en	1
